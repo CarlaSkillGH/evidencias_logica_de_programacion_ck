@@ -3,9 +3,9 @@
 
 # Sesión 11 
 
-# Programa en Java para detectar números repetidos
+## Programa en Java para detectar números repetidos
 
-### Sintaxis de Java
+### Sintaxis 1 de Java
 
 ```java
 import java.util.HashSet;
@@ -45,7 +45,7 @@ public class Ejercicio1 {
 
 ## Programa en Java para convertir números binarios a decimales
 
-### Sintaxis de Java
+### Sintaxis 2 de Java
 
 ```java
 public class BinaryToDecimal {
